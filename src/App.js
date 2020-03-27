@@ -9,8 +9,9 @@ class App  extends Component {
     return (
     
      <div style={{height: '300px', position: 'relative'}}>
-    <Layout style={{background: 'url(http://www.getmdl.io/assets/demos/transparent.jpg) center / cover'}}>
-        <Header transparent title="Title" style={{color: 'white'}}>
+    <div className="demo-big-content">
+    <Layout>
+        <Header className="header-color" title="Title" scroll>
             <Navigation>
                 <Link to="/resume">Resume</Link>
                 <Link to="/aboutme">About Me</Link>
@@ -27,15 +28,11 @@ class App  extends Component {
             </Navigation>
         </Drawer>
         <Content>
-          <div className="page-content"/>
-          <Main/>
+            <div className="page-content" />
         </Content>
-       
     </Layout>
-
-
-
-Create New Pen with Prefilled Data
+</div>
+          <Main/>
 
     </div>
   );
