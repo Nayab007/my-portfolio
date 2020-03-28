@@ -20,17 +20,17 @@ class Landing extends Component {
                     
                     <div className="social-links">
                     
-                    {/* linkedin */}
+                    {/* facebook */}
                     <a href="https://www.google.com" rel="noopener noreferrer" target="_blank">
-                        <i className="fab fa-linkedin-square" aria-hidden='true'/>
+                        <i className="fab fa-facebook-square" aria-hidden='true'/>
                     </a>
                     {/* Github */}
                     <a href="http://google.com" rel="noopener noreferrer" target="_blank">
                     <i className="fab fa-github" aria-hidden='true'/>
                     </a>
-                         {/* Freecodecamp */}
+                         {/* instagram */}
                     <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-                    <i className="fab fa-free-code-camp"/>
+                    <i className="fab fa-instagram"/>
 
                     </a>
                     </div>
