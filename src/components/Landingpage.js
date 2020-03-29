@@ -22,15 +22,15 @@ class Landing extends Component {
                     
                     {/* facebook */}
                     <a href="https://www.google.com" rel="noopener noreferrer" target="_blank">
-                        <i className="fab fa-facebook-square" aria-hidden='true'/>
+                    <i className="fa fa-facebook-square" aria-hidden="true"/>
                     </a>
                     {/* Github */}
                     <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-                    <i className="fab fa-github" aria-hidden='true'/>
+                    <i className="fa fa-github" aria-hidden='true'/>
                     </a>
                          {/* instagram */}
                     <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-                    <i className="fab fa-instagram"/>
+                    <i className="fa fa-instagram"/>
 
                     </a>
                     </div>
