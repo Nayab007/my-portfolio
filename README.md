@@ -1,3 +1,10 @@
+
+Everything was hard in begin. but somehow I mange to make something.Just understing React is time consuming.
+if I start over again it would be little easy now. I don't regrad anything about this project.I will need my 
+portfolio in future. 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
